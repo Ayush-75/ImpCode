@@ -41,7 +41,7 @@ androidx-constraintlayout = { group = "androidx.constraintlayout", name = "const
 androidApplication = { id = "com.android.application", version.ref = "agp" }
 jetbrainsKotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 devtoolKsp = {id = "com.google.devtools.ksp" , version.ref = "devtoolKsp"}
-navigationSafeArgs = {id = "androidx.navigation.safeargs", version.ref = "safeArgs"}
+navigationSafeArgs = {id = "androidx.navigation.safeargs.kotlin", version.ref = "safeArgs"}
 androidLibrary = {id = "com.android.library" , version.ref = "library"}
 kotlin-parcelize = { id = "org.jetbrains.kotlin.plugin.parcelize",  version.ref = "kotlinPlugin"  }
 
